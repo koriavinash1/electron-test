@@ -1,0 +1,9 @@
+zerorpc
+pyzmq
+future
+msgpack-python
+gevent
+pyinstaller
+nibabel
+pytorch
+h5py
