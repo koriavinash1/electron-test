@@ -1,5 +1,5 @@
 {
-  "name": "Brain Tumour Segmentation (MIRL BraTS)",
+  "name": "Brain-Tumour-Segmentation(MIRL-BraTS)",
   "version": "1.0.0",
   "description": "Automate the process of Tumour extraction from brain MRI",
   "main": "main.js",
