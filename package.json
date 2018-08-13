@@ -18,6 +18,7 @@
   "author": "koriavinash1",
   "license": "MIT",
   "dependencies": {
+    "nifti-reader-js": "^0.5.4",
     "zerorpc": "git+https://github.com/fyears/zerorpc-node.git"
   },
   "devDependencies": {
